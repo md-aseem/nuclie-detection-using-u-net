@@ -1,4 +1,4 @@
-# Cell Nuclei Identification through Semantic Segmentation
+# Cell Nuclei Identification through U-Net
 
 Our project's objective is to create an AI-driven semantic segmentation model that can accurately and efficiently identify cell nuclei in biomedical images. This is a significant step in biological research, as it allows for detailed analysis of DNA within cell nuclei, contributing to our understanding of cellular functions and responses to various treatments.
 
@@ -32,9 +32,9 @@ The U-Net model, consisting of 6.5 million parameters, accepts an input tensor s
 
 
 <p align="center">
-  <em>U-Net model Summary</em>
-  <br>
   <a href="images/model_summary.txt" download="model_summary.txt">Download Model Summary</a>
+    <br>
+  <em>U-Net model Summary</em>
 </p>
 
 
