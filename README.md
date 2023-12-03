@@ -43,6 +43,12 @@ The U-Net model, consisting of 6.5 million parameters, accepts an input tensor s
 This section is dedicated to model training and evaluating its predictive capabilities. We showcase the model's learning progress by comparing the predicted masks before and after training. The difference is evident after 100 epochs, highlighting the model's effectiveness in learning semantic segmentation.
 
 <p align="center">
+  <img src="images/history.png" alt="Model Training History" width="40%">
+  <br>
+  <em>Model Training History</em>
+</p>
+
+<p align="center">
   <img src="images/prediction_before_training.png" alt="Predicted Mask Before Training">
   <br>
   <em>Predicted Mask Before Training</em>
